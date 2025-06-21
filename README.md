@@ -26,6 +26,13 @@ Este projeto utiliza uma rede neural convolucional (CNN), construída com Tensor
 pip install -r requirements.txt
 ```
 
+### 2. Executar o programa
+
 ```bash
 python run drawing.py
 ```
+
+### Controlos Importantes
+
+C - Limpar o desenho<br>
+ESC - Sair do programa
