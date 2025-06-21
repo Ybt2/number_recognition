@@ -17,3 +17,12 @@ Este projeto utiliza uma rede neural convolucional (CNN), construída com Tensor
 - 🧠 [TensorFlow](https://www.tensorflow.org/) — para construir e treinar a CNN
 - 👁 [OpenCV](https://opencv.org/) — para capturar e processar imagens
 - 🐍 Python — linguagem principal
+
+## 🚀 Como usar
+
+### 1. Instalar dependências
+
+```bash
+pip install -r requirements.txt
+```
+
